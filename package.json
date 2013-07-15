@@ -8,7 +8,7 @@
   },
   "main": "./lib/immortal-ntwitter",
   "engines": {
-    "node": ">=0.4.0 < 0.9"
+    "node": ">=0.4.0 <= 0.10.13"
   },
   "dependencies": {
 	"ntwitter":">0.2.10"
